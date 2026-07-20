@@ -20,9 +20,7 @@
 
 <br/>
 
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,50:A855F7,100:2E0854&height=3" width="100%"/>
 
 ## ▓ ABOUT
 
@@ -30,9 +28,7 @@ I build AI-powered dashboards, trading tools, and dev utilities. Mostly
 frontend-heavy, real-time data, and a soft spot for a dark purple UI.
 Everything below is live, self-built, and open to feedback.
 
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,50:A855F7,100:2E0854&height=3" width="100%"/>
 
 ## ▓ PROJECTS
 
@@ -80,9 +76,7 @@ locally.
 > Swap the `#` links above for your live/deployed URLs once each project
 > is hosted, so the buttons open the real sites.
 
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,50:A855F7,100:2E0854&height=3" width="100%"/>
 
 ## ▓ TECH STACK
 
@@ -99,9 +93,7 @@ locally.
 
 </div>
 
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E0854,50:A855F7,100:2E0854&height=3" width="100%"/>
 
 ## ▓ SUPPORT
 
@@ -117,8 +109,6 @@ If any of these tools save you time, a coffee is always appreciated 🟪
 
 <div align="center">
 
-```
-░▒▓█ thanks for stopping by █▓▒░
-```
+`░▒▓█ thanks for stopping by █▓▒░`
 
 </div>
